@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'LoaderAnimation' do
+ 
+  use_frameworks!
+
+ pod 'ANLoader', '~> 0.1'
+
+
+end

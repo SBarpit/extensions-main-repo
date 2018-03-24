@@ -1,0 +1,6 @@
+framework module Pods_ActivityLoader {
+  umbrella header "Pods-ActivityLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
